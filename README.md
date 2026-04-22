@@ -13,6 +13,7 @@ retention.
 - Best model: LightGBM — AUC-ROC 0.87
 
 ## Project Structure
+'''
 churn-prediction/
 ├── data/
 │   ├── raw/
@@ -23,7 +24,7 @@ churn-prediction/
 │   └── 03_modeling.ipynb
 ├── results/
 └── README.md
-
+'''
 ## Notebooks
 | Notebook | Description |
 |----------|-------------|
